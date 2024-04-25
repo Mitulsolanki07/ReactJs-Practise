@@ -1,0 +1,1 @@
+I'm diving into learning ReactJs starting today, April 25, 2024. I'm eager to get hands-on experience for the AccuVelocity project at RiverEdge Analytics, where I hold the position of software developer.
